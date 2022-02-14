@@ -1,0 +1,14 @@
+/**
+ * Public API Surface of @tinkoff/ng-dompurify
+ */
+export * from './lib/ng-dompurify.service';
+export * from './lib/ng-dompurify.pipe';
+export * from './lib/ng-dompurify.module';
+export * from './lib/tokens/dompurify-config';
+export * from './lib/tokens/dompurify-hooks';
+export * from './lib/tokens/sanitize-style';
+export * from './lib/types/dompurify-hook';
+export * from './lib/types/ng-dompurify-config';
+export * from './lib/types/ng-dompurify-hook';
+export * from './lib/types/sanitize-style';
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoicHVibGljLWFwaS5qcyIsInNvdXJjZVJvb3QiOiIiLCJzb3VyY2VzIjpbIi4uLy4uLy4uL3Byb2plY3RzL25nLWRvbXB1cmlmeS9zcmMvcHVibGljLWFwaS50cyJdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiQUFBQTs7R0FFRztBQUNILGNBQWMsNEJBQTRCLENBQUM7QUFDM0MsY0FBYyx5QkFBeUIsQ0FBQztBQUN4QyxjQUFjLDJCQUEyQixDQUFDO0FBQzFDLGNBQWMsK0JBQStCLENBQUM7QUFDOUMsY0FBYyw4QkFBOEIsQ0FBQztBQUM3QyxjQUFjLDZCQUE2QixDQUFDO0FBQzVDLGNBQWMsNEJBQTRCLENBQUM7QUFDM0MsY0FBYyxpQ0FBaUMsQ0FBQztBQUNoRCxjQUFjLCtCQUErQixDQUFDO0FBQzlDLGNBQWMsNEJBQTRCLENBQUMiLCJzb3VyY2VzQ29udGVudCI6WyIvKipcbiAqIFB1YmxpYyBBUEkgU3VyZmFjZSBvZiBAdGlua29mZi9uZy1kb21wdXJpZnlcbiAqL1xuZXhwb3J0ICogZnJvbSAnLi9saWIvbmctZG9tcHVyaWZ5LnNlcnZpY2UnO1xuZXhwb3J0ICogZnJvbSAnLi9saWIvbmctZG9tcHVyaWZ5LnBpcGUnO1xuZXhwb3J0ICogZnJvbSAnLi9saWIvbmctZG9tcHVyaWZ5Lm1vZHVsZSc7XG5leHBvcnQgKiBmcm9tICcuL2xpYi90b2tlbnMvZG9tcHVyaWZ5LWNvbmZpZyc7XG5leHBvcnQgKiBmcm9tICcuL2xpYi90b2tlbnMvZG9tcHVyaWZ5LWhvb2tzJztcbmV4cG9ydCAqIGZyb20gJy4vbGliL3Rva2Vucy9zYW5pdGl6ZS1zdHlsZSc7XG5leHBvcnQgKiBmcm9tICcuL2xpYi90eXBlcy9kb21wdXJpZnktaG9vayc7XG5leHBvcnQgKiBmcm9tICcuL2xpYi90eXBlcy9uZy1kb21wdXJpZnktY29uZmlnJztcbmV4cG9ydCAqIGZyb20gJy4vbGliL3R5cGVzL25nLWRvbXB1cmlmeS1ob29rJztcbmV4cG9ydCAqIGZyb20gJy4vbGliL3R5cGVzL3Nhbml0aXplLXN0eWxlJztcbiJdfQ==

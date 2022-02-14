@@ -1,0 +1,1 @@
+{"version":3,"file":"ng-dompurify-hook.d.ts","sourceRoot":"","sources":["../../../../projects/ng-dompurify/src/lib/types/ng-dompurify-hook.ts"],"names":[],"mappings":"AAAA,OAAO,EAAC,QAAQ,EAAC,MAAM,WAAW,CAAC;AACnC,OAAO,EAAC,aAAa,EAAC,MAAM,kBAAkB,CAAC;AAE/C;;GAEG;AACH,oBAAY,eAAe,GAAG;IAC1B,QAAQ,CAAC,IAAI,EAAE,QAAQ,CAAC;IACxB,QAAQ,CAAC,IAAI,EAAE,aAAa,CAAC;CAChC,CAAC"}
